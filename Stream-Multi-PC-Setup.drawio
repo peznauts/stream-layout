@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T19:37:57.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="P9at6mDaQAekkPpmyV6k" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T19:40:03.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="B3IuWKRzCl4J9LIP4oUe" version="14.1.3" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1727" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -456,8 +456,8 @@
             <mxPoint x="340" y="489" as="sourcePoint" />
             <mxPoint x="400" y="758" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="759" />
-              <mxPoint x="440" y="800" />
+              <mxPoint x="460" y="759" />
+              <mxPoint x="460" y="800" />
               <mxPoint x="640" y="800" />
             </Array>
           </mxGeometry>
@@ -480,8 +480,8 @@
         <mxCell id="ei8tHevfdLbRv2VNK5B5-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="290" y="669" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="udWF-kmXkvJZrrBDOuRl-86" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Audio Switch is only used for in-game chat. Game audio is transported over HDMI&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=#d6b656;glass=0;fillColor=#ffffff;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="700" width="130" height="49" as="geometry" />
+        <mxCell id="udWF-kmXkvJZrrBDOuRl-86" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Audio Switch is only used for in-game chat. Game audio is transported over HDMI.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=#d6b656;glass=0;fillColor=#ffffff;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="407" y="704" width="106" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
