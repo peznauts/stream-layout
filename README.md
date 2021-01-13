@@ -9,3 +9,5 @@ creation setup.
 
 > All diagrams will be made available in `PNG` and `SVG` format
   with embedded images and a transperant background.
+
+![Stream Diagram](Stream-Multi-PC-Setup.png)
